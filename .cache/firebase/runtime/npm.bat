@@ -1,0 +1,2 @@
+@echo off
+node "/snapshot/firepit/node_modules/npm/bin/npm-cli" --script-shell=/Users/jerenannagurbanova/.cache/firebase/runtime/shell --globalconfig=/Users/jerenannagurbanova/.cache/firebase/runtime/npmrc --userconfig=/Users/jerenannagurbanova/.cache/firebase/runtime/npmrc --scripts-prepend-node-path=auto  %*

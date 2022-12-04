@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dbnoNDFUgkPAnQaycE4J0lWMFmjEHwQAkT3ysnwTYlV7ttHwltGZd2SCc1rqujQIVEqG8XFqg/H0Hbid+cfhbQ==",
+  "success": true,
+  "projectFilePath": "/Users/jerenannagurbanova/Projects/ShaServicee/ShaServicee/ShaServicee.csproj",
+  "expectedPackageFiles": [
+    "/Users/jerenannagurbanova/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/jerenannagurbanova/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/jerenannagurbanova/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/jerenannagurbanova/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
